@@ -94,7 +94,7 @@ input[type="number"] {
     display: inline-block;
     width: 100%;
     padding: 10px;
-    background-color: #ff6ec7; /* Warna pink */
+    background-color: #ff6ec7; 
     color: #fff;
     text-align: center;
     border: none;
@@ -110,7 +110,7 @@ input[type="number"] {
 }
 
 .btn-reset {
-    background-color: #6b5b95; /* Warna ungu */
+    background-color: #6b5b95; 
 }
 
 .btn-reset:hover {
@@ -120,7 +120,7 @@ input[type="number"] {
 .result-container {
     margin-top: 20px;
     text-align: center;
-    background-color: #d8e2dc; /* Warna biru muda */
+    background-color: #d8e2dc; 
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
@@ -128,7 +128,7 @@ input[type="number"] {
 
 .result-container h3 {
     font-size: 24px;
-    color: #6b5b95; /* Warna ungu */
+    color: #6b5b95; 
     margin-bottom: 10px;
 }
 
@@ -136,7 +136,7 @@ input[type="number"] {
     font-size: 40px;
     font-weight: bold;
     margin-bottom: 10px;
-    color: #ff6ec7; /* Warna pink */
+    color: #ff6ec7; 
 }
 
 .result-container p {
